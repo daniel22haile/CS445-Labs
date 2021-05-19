@@ -1,1 +1,1 @@
-# CS445-All-Labs
+# CS445-Labs
