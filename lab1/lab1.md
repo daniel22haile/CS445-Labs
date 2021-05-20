@@ -1,4 +1,5 @@
 # Excercise 1
+*[Practice with all the local repository commands from the slides]*
 **git status**
 ![git status](gitStatus.png)
 
@@ -28,3 +29,9 @@
 
 **git tag**
 ![git status](gitTag.jpg)
+
+# Excercise 2 
+*[Practice with all the remote repository commands from the slides]*
+
+# Excercise 3
+*[Practice with all the third party repositories commands from the slides]*
