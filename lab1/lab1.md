@@ -4,3 +4,9 @@
 
 **git diff**
 ![git status](gitDiff.png)
+
+**git show**
+![git status](gitShow.png)
+
+**git restore**
+![git status](gitRestore.png)
