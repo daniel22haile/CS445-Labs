@@ -47,6 +47,7 @@
 
 
 
+
 # Excercise 3
 **Practice with all the third party repositories commands from the slides**
 *Assume we are working with the following upstream:*
