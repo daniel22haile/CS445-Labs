@@ -14,7 +14,7 @@ We will be discussing the V8 engine in this article.
 # The JavaScript Journey
 *The following diagram shows all the steps how the **Javascript** journey looks like:*
 
-<<<<<<< HEAD
+
 ![javascript_journey](javascript_journey.png)
 
 *fig1: JS journey diagram*
