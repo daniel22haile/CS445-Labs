@@ -33,5 +33,6 @@
 # Excercise 2 
 *[Practice with all the remote repository commands from the slides]*
 
+
 # Excercise 3
 *[Practice with all the third party repositories commands from the slides]*
