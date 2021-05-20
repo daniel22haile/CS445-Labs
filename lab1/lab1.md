@@ -53,3 +53,5 @@
 *Assume we are working with the following upstream:*
 [GitHub](https://github.com/bellaxing/CS445-May2021-Lab1)
 
+**some steps**
+![some steps](steps.jpg)
