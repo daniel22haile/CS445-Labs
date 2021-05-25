@@ -23,3 +23,18 @@ class Univeristy{
 };
 let miu = new Univeristy("MIU", "Computer science");
 miu.graduation(2019);
+
+
+//TODO - method 2
+class Univeristy2{
+   
+    constructor(public name: string, private dept: string, ){
+     
+    }
+        graduation(year: number){
+            console.log(`Graduation ${this.dept} ${year} students`);
+        }  
+    
+};
+let miu2 = new Univeristy2("MIU", "Computer science");
+miu.graduation(2019);

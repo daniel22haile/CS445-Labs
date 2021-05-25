@@ -23,11 +23,11 @@ When you are done, transpile the TS code to JS code and inspect the JS code.
 
 //TODO - solution using typescript class
 class Car {
-    name: string;
-    acceleration: number;
-    constructor(name: string) {
-        this.name = name;
-        this.acceleration = 0
+    //name: string;
+    public acceleration: number = 0;
+    constructor(public name: string) {
+        //this.name = name;
+        //this.acceleration = 0
     }
     honk(): void {
         console.log(` ${this.name} is saying: Toooooooooot!`);

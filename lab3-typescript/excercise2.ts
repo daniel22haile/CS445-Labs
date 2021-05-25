@@ -1,5 +1,5 @@
 
-
+//TODO - MY solution
 
 let bankAccount : {​​​​​
     money: number;
@@ -14,7 +14,7 @@ let bankAccount : {​​​​​
     }​​​​​
     let myself : {​​​​​
     name: string;
-    bankAccount:any;
+    bankAccount:typeof bankAccount;
     hobbies: [string, string]
     }​​​​​;
      
@@ -27,6 +27,10 @@ let bankAccount : {​​​​​
      
     myself.bankAccount.deposit(3000);
     console.log(myself);
+
+//TODO - Prof's solution
+
+
 
 //TODO - Question 2
     // let bankAccount = { 
