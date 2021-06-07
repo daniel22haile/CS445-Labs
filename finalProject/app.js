@@ -4,5 +4,4 @@ window.onload = function() {
             .then(console.log)
     }
     //I'm doing on it
-    //I'm working on it
-    //I made some changes
+    //I just started my project
